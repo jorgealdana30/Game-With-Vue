@@ -1,0 +1,35 @@
+body{
+    color: #ffffff!important;
+}
+
+.jumbotron{
+    background-color: #ffffff !important;
+    margin-left: 10px;
+    color: black;
+    margin-right: 10px;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+.botonInicio{
+    background: #dc3545!important;
+    border-color: #dc3545;
+}
+
+.contenedor{
+    margin-left: 10px;
+    color: black;
+    margin-right: 10px;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+.bg-info {
+    background-color: #dc3545 !important;
+}
+
+@media screen and (max-width: 720px){
+    .display-3 {
+        font-size: 3.5rem;
+    }
+}
